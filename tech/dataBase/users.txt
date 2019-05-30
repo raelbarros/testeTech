@@ -1,0 +1,1 @@
+{"nome":"teste","email":"israel@teste.com","senha":"698dc19d489c4e4db73e28a713eab07b","telefone":[{"numero":"123456","ddd":"11"}],"data_criacao":"2019-5-29 21:52:29","data_atualizacao":"","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImlzcmFlbEB0ZXN0ZS5jb20iLCJpYXQiOjE1NTkxNzc1NDl9.aQHgCCCEOJe09mnNkCnV6XOPcwGCJDHPoMhjjym5nNk"};
